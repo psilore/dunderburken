@@ -3,16 +3,16 @@
 
 name = "Dunderburken"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/pislore/dunderburken/blob/main/LICENSE"
 description = ""
-homepage = "http://example.com/"
+homepage = "http://dunderburken.com/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "psilore"
+  homepage = "http://dunderburken.com/"
 
 # If porting an existing theme
 [original]
